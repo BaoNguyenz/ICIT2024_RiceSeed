@@ -8,7 +8,7 @@ This project presents a novel approach to rice seed purity recognition, enhancin
 
 Our system follows a comprehensive and modular pipeline as illustrated in the figure below:
 
-![Methodology Overview](Images/Pipeline for Methodology.png)
+![Methodology Overview](Images/Pipeline_for_Methodology.png)
 
 The methodology consists of the following stages:
 
